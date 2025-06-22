@@ -1,0 +1,120 @@
+    * 
+    .appHeading {
+        background-color: rgb(228, 228, 238);
+        text-align: center;
+    }
+    
+    body {
+        padding: 0;
+        margin: 0;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+        .bottom-right {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+        }
+
+    .appbody {
+       
+        background-color: rgb(242, 236, 239); 
+        background-size: cover;
+        font-family: sans-serif;
+        margin-top: 40px;
+        height: 100vh;
+        padding: 0;
+        margin: 0;
+    }
+
+    table {
+        border: 100px;
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 86%;
+        margin: auto;
+    }
+
+    td,
+    th {
+        border: 1px solid rgb(60, 57, 57) !important;
+        padding: 5px;
+    }
+
+    tr:nth-child(even) {
+        background-color: #d9d3d3;
+    }
+
+    .row-text-center{
+        padding: 20px;
+        margin: 20px; 
+        text-align: center 
+
+    }
+    .addUser{
+        background-color: #dedce3;
+    }
+    .names {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        font-size: medium;
+        font-weight: bolder;
+        padding: 0px;
+       
+
+
+    }
+    .names p {
+        margin: 4px 0;
+      }
+    @font-face {
+        font-family: 'Material Icons';
+        font-style: normal;
+        font-weight: 400;
+        src: url(https://fonts.gstatic.com/s/materialicons/v140/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2) format('woff2');
+      }
+      
+      .material-icons {
+        font-family: 'Material Icons';
+        font-weight: normal;
+        font-style: normal;
+        font-size: 24px;
+        line-height: 1;
+        letter-spacing: normal;
+        text-transform: none;
+        display: inline-block;
+        white-space: nowrap;
+        word-wrap: normal;
+        direction: ltr;
+        -webkit-font-feature-settings: 'liga';
+        -webkit-font-smoothing: antialiased;
+      }
+
+
+      .col
+      {
+        border-radius: 20px;
+        padding: 0px;
+        background-color:rgb(211,211,211,0.5);
+        margin:0px 10px 10px 10px;
+        min-height: 300px;
+        
+      }
+
+     .btn-primary{
+        margin-bottom: 20px;
+     }
+
+     .btn-dark{
+        margin-top: 10px;
+        margin-bottom: 10px;
+     }
+
+     .logo {
+            position: absolute;
+            top: 0px;
+            left: 5px;
+            width: 200px; /* Adjust the width as needed */
+            height: auto; /* Adjust the height as needed */
+        }
