@@ -110,12 +110,6 @@ Then open:
 
 ---
 
-## 📸 Screenshot
-
-![App Screenshot](static/example_screenshot.png) <!-- Add your screenshot path -->
-
----
-
 ## 🧑‍💻 Author
 
 **Chandan Kumar**  
