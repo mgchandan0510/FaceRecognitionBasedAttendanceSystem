@@ -132,14 +132,3 @@ GitHub: [@mgchandan0510](https://github.com/mgchandan0510)
 
 This project is open-source under the [MIT License](LICENSE).
 
-```
-
----
-
-Let me know if you want:
-- A `home.html` template
-- A GitHub action to auto-deploy
-- Dockerfile or installation script
-
-I can also generate a PDF version of this `README` if needed.
-```
